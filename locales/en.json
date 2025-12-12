@@ -1,0 +1,23 @@
+{
+  "welcome": "Welcome to Nuxt 4!",
+  "description": "This is a full-featured Nuxt 4 project with TypeScript, Composition API, Pinia, i18n, SASS, and ESLint.",
+  "counter": "Counter Example",
+  "increment": "Increment",
+  "decrement": "Decrement",
+  "reset": "Reset",
+  "language": "Language / Язык",
+  "features": {
+    "title": "Technologies Used",
+    "nuxt4": "Nuxt 4 - Latest version with new app/ directory structure",
+    "typescript": "TypeScript - Full type safety and IntelliSense",
+    "pinia": "Pinia - Modern state management with Composition API",
+    "i18n": "i18n - Internationalization support",
+    "sass": "SASS - Powerful CSS preprocessor with variables",
+    "eslint": "ESLint - Code quality and consistency"
+  },
+  "greetings": {
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening"
+  }
+}
